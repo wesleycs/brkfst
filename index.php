@@ -8,6 +8,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
 else
 {
 ?>
+
+<?php
+	echo '<script>consoe.log("testing")</script>';
+	?>
 <!doctype html>
 <html lang="en">
 <head>
