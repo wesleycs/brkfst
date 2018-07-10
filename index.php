@@ -22,7 +22,7 @@ else
     <link rel="stylesheet" href="/styles.css" type="text/css">
 </head>
 <body>
-    <section class="congratulations">
+    <section class="congratulation">
         <h1>Hi Stephen! Hope you're ready to start cooking BRKFST.</h1>
         <p>our AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
