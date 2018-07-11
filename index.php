@@ -26,9 +26,8 @@ else
     <link rel="stylesheet" href="/styles.css" type="text/css">
 </head>
 <body>
-    <section class="congratulation">
+    <section>
         <h1>Hi Stephen! Hope you're ready to start cooking BRKFST.</h1>
-        <p>WS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
     </section>
 
     <section class="instructions">
